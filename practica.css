@@ -1,0 +1,50 @@
+header{
+    font-family: 'Raleway', sans-serif;
+    font-size: 100px;
+    background-color: aquamarine;
+    text-align: center;
+}
+.otro-titulo{
+    font-family: 'Nanum Gothic', sans-serif;
+    font-style: italic;
+    font-size: 30px;
+    text-decoration: underline;
+    color: black;
+    text-align: center;
+}
+#img1{
+    width: 300px;
+    margin: auto;
+    flex-direction:row;
+}
+nav{
+    font-family: 'Raleway', sans-serif;
+    font-size: small;
+    color: rgb(52, 40, 127);
+  
+}
+img{
+    margin:auto;
+    display: flex;
+    flex-direction: column; 
+}
+p,
+ul,
+h3 {
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: medium;
+}
+.listas{
+    margin: auto;
+    background-color: cornflowerblue;
+    border-color: black;
+    flex-wrap: wrap;
+}
+
+footer{
+    color: honeydew;
+    background-color: black;
+}
+a{
+    color:blueviolet;
+}
